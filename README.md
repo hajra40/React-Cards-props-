@@ -1,3 +1,6 @@
+# Props
+ Learn how to pass props and use it in different component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
